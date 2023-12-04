@@ -1,0 +1,24 @@
+*{
+    background-color: aqua;
+    margin: 0%;
+}
+
+.site-header {
+    height: 100px;
+    font-family: arial;
+    text-align: center;
+  
+   
+}
+
+text-content {
+    margin: 20px;
+}
+
+.profile-pic {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    box-shadow: rgba(212, 13, 69, 0.323);
+    margin-top: 40px;
+}

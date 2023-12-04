@@ -1,0 +1,28 @@
+
+#calculator {
+    border : 1px solid rgba(93, 95, 95);
+    border-radius: 5px;
+    width: 200px;
+    background-color: rgba(88, 90, 88, 0.403);
+
+}
+
+#display {
+    margin: 10px;
+    width: 85%;
+    font-size: 25px;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap; 
+    /* The flex-wrap CSS property sets whether flex items are forced onto one line or can wrap onto multiple lines.*/
+}
+
+.button {
+    width: 45px;
+    height: 45px;
+    margin: 3px;
+    
+}
